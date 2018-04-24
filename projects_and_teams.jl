@@ -732,21 +732,21 @@ projects = Project[
 	Project(
 		"Galaga",
 		45,
-		3,
+		2,
 		Team(
 			Student[
 				Student(
-					"Name",
-					"Lastname",
-					"RA-XXX/20YY",
-					"xxx@yyy",
+					"Filip",
+					"Mihić",
+					"RA-19/2015",
+					"fikimihic@gmail.com",
 					0
 				),
 				Student(
-					"Name",
-					"Lastname",
-					"RA-XXX/20YY",
-					"xxx@yyy",
+					"Marko",
+					"Mihić",
+					"RA-149/2013",
+					"mihicmarkons@gmail.com",
 					0
 				),
 			]
@@ -755,7 +755,7 @@ projects = Project[
 			"""
 			""",
 			URL[
-				URL("https://github.com/Gvex95/Galaga"),
+				URL("https://github.com/MihicF/LPRS2_Galaga"),
 			]
 		),
 		Solution(
