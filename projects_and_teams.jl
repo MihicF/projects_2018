@@ -968,21 +968,21 @@ projects = Project[
 	Project(
 		"Lode Runner",
 		45,
-		3,
+		2,
 		Team(
 			Student[
 				Student(
-					"Name",
-					"Lastname",
-					"RA-XXX/20YY",
-					"xxx@yyy",
+					"Filip",
+					"Mihić",
+					"RA-19/2015",
+					"fikimihic@gmail.com",
 					0
 				),
 				Student(
-					"Name",
-					"Lastname",
-					"RA-XXX/20YY",
-					"xxx@yyy",
+					"Marko",
+					"Mihić",
+					"RA-149/2013",
+					"mihicmarkons@gmail.com",
 					0
 				),
 			]
